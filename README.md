@@ -1,6 +1,6 @@
 # Match-Match Game
 
-> This is is an educational project - a simple game where you should find similar images. In settings menu you can change the number of tiles and the theme of the images.
+> This is an educational project - a simple game where you should find similar images. In settings menu you can change the number of tiles and the theme of the images.
 
 - [Deploy](https://rolling-scopes-school.github.io/foggylight-JSFE2021Q1/match-match-game/)
 
